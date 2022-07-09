@@ -5,8 +5,8 @@ It detects faces using OpenCV. <br/>
 Classification is done using Deep-Learning Model.<br/>
 The model contains Tensorflow-Keras and CNN Layers.<br/>
 
-The dataset used to train the model contains 12,000 images. 
-Dataset Link: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+The dataset used to train the model contains 12,000 images. <br/>
+Dataset Link: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset <br/>
 
 <p align="center">
   Examples
