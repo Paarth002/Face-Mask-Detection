@@ -9,5 +9,5 @@ Dataset Link: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 
 <p align="center">
   Examples
-  <img src="media/posts.png" width="100%" title="1">
+  <img src="face.jpeg" width="100%" title="1">
 </p><br/>
