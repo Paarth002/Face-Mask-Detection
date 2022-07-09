@@ -8,6 +8,8 @@ The model contains Tensorflow-Keras and CNN Layers.<br/>
 The dataset used to train the model contains 12,000 images. <br/>
 Dataset Link: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset <br/>
 
+Check presentation for more details. <br/>
+
 <p align="center">
   Examples
   <img src="face.jpeg" width="100%" title="1">
